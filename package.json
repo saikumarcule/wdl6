@@ -1,6 +1,7 @@
 {
   "name": "todo-manager",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -29,16 +30,7 @@
     "lint-staged": "^13.0.3",
     "nodemon": "^2.0.20",
     "prettier": "^2.7.1",
-    "sequelize-cli": "^6.5.2",
+    "sequelize-cli": "^6.5.1",
     "supertest": "^6.2.4"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/saikumarcule/wdl6.git"
-  },
-  "bugs": {
-    "url": "https://github.com/saikumarcule/wdl6/issues"
-  },
-  "homepage": "https://github.com/saikumarcule/wdl6#readme",
-  "description": ""
+  }
 }
